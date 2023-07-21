@@ -15,7 +15,7 @@ class getIOC2TA
     private static string host = "https://api.intelligence.mandiant.com";
     private static string path = "/token";
     private static string ConfigurationFile = Directory.GetCurrentDirectory() + "\\MandiantAdvantage.ini";
-    private static string XAppName = "getioc2ta.bnm.v1.0";
+    private static string XAppName = "getioc2ta.dh3c.v1.0";
 
     static void Main(string[] args)
     {
