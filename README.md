@@ -9,5 +9,7 @@ Using the Mandiant Threat Intelligence API url : https://api.intelligence.mandia
    <code>getIOC2TA create_config &lt;apiKey&gt; &lt;apiSecret&gt;</code>
 4. Run the program<br><code>getIOC2TA run</code>
 
-For more info, go here:
+Initially written in python, converted to C# to sync my codes
+
+For more info, go here:<br>
 https://www.mandiant.com/advantage/threat-intelligence
